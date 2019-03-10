@@ -9,8 +9,8 @@ Example of a repo added to npm for testing purposes.
 
 # Usage
 ```javascript
-const myFirstPackage = require('@vicentemaximilianoh/my-first-package);
+const myFirstPackage = require('@vicentemaximilianoh/my-first-package');
 
-myFirstPackage('Some text with spaces')
-// Sometextwithspaces
+myFirstPackage("Some text with spaces")
+// => "Sometextwithspaces"
 ```
