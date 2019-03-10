@@ -1,0 +1,14 @@
+{
+  "name": "@vicentemaximilianoh/my-first-package",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "vicentemaximilianoh/my-first-package",
+  "main": "index.js",
+  "keywords": [
+    "my-first-package",
+    "npm",
+    "package",
+    "bamblehorse"
+  ]
+}
